@@ -6,9 +6,9 @@ AI Engineer with a background in AI and Robotics, interested in building practic
 
 ### 🛠️ Technical Skills
 
-- **Languages:** Python, C++
-- **AI/ML:** PyTorch, TensorFlow, Scikit-learn, OpenCV
-- **LLM Applications:** RAG, LangChain, Multi-Agent Systems, Prompt Engineering
+- **Languages:** Python, C++, Java
+- **AI/ML:** PyTorch, TensorFlow, Keras, Scikit-learn, OpenCV
+- **LLM Applications:** RAG, LangChain, Multi-Agent Systems, Prompt Engineering, Automation
 - **Backend & Deployment:** FastAPI, Streamlit, Docker, Git
 - **Data & Analytics:** Pandas, NumPy, Power BI
 
@@ -22,6 +22,10 @@ A retrieval-augmented generation application with specialized agents for documen
 
 **Intelligent AI Coding Assistant**  
 A coding assistant that uses a vector database and retrieved coding knowledge to support code generation and explanation.
+
+**Video Shoplifting Classification System**
+This project is an AI-powered video classification system that detects shoplifting activities using deep learning.
+It uses a trained CNN-based model to analyze video frames and classify whether a video contains shoplifting behavior or not. The system is integrated into a Django web application for easy interaction and real-time predictions.
 
 ### 📫 Connect With Me
 
